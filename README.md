@@ -32,6 +32,14 @@ pnpm
 
 # その他エコシステム
 
+## Visual Studio Code拡張
+
+- 
+
+## ドキュメント管理
+
+- [adr-tools](https://github.com/npryce/adr-tools/blob/master/INSTALL.md)
+
 ## Codex
 
 推奨する公式Plugin
